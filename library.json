@@ -1,0 +1,24 @@
+{
+    "name": "FunctionToPiecewise",
+    "keywords": "calibrationcurve, twopointcalibrationcurve, calibration, sensor calibration",
+    "description": "PlatformIO Library for a two point calibration curve that can be used with all kinds of sensors",
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/david-antaki-open-source/embedded-c-lib/two-pt-cal-curve.git"
+    },
+    "authors": [
+        {
+            "name": "David Antaki",
+            "email": "antakidavid@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "dependencies": [],
+    "version": "1.0.0",
+    "frameworks": "mbed",
+    "platforms": [
+        "nucleo_l432kc",
+        "nucleo_f767zi"
+    ],
+    "license": "Closed Source"
+}
