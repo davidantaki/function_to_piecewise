@@ -1,8 +1,7 @@
 // File: test.cpp
 // Author: David Antaki
 // Date: 6/22/2020
-// License: This software is not open source and is copyrighted by David
-// Antaki and Sous Bois International, Inc.
+// License: Closed source
 //
 // Contents: Simple test file.
 

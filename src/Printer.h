@@ -1,8 +1,7 @@
 // File: Printer.h
 // Author: David Antaki
 // Date: 5/27/2020
-// License: This software is not open source and is copyrighted by David
-// Antaki and Sous Bois International, Inc.
+// License: Closed source
 // Contents: A generic printer hcear for
 
 #ifndef PRINTER_H

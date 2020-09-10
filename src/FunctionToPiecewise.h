@@ -1,8 +1,7 @@
 // File: FunctionToPiecewise.h
 // Author: David Antaki
 // Date: 5/25/2020
-// License: This software is not open source and is copyrighted by David
-// Antaki and Sous Bois International, Inc.
+// License: Closed source
 //
 // Contents: Holds a piecewise function with n segments that represents
 // the standard equation for calculating the magnetic flux density of a

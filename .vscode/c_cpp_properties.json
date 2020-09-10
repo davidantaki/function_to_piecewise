@@ -6,11 +6,11 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:/Users/David/Videos/GitLab/APSons/lib/function-to-piecewise/include",
-                "C:/Users/David/Videos/GitLab/APSons/lib/function-to-piecewise/src",
+                "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/include",
+                "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/src",
                 "C:/Users/David/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M",
                 "C:/Users/David/.platformio/packages/framework-mbed",
-                "C:/Users/David/Videos/GitLab/APSons/lib/function-to-piecewise/.pio/build/nucleo_l432kc",
+                "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/.pio/build/nucleo_l432kc",
                 "C:/Users/David/.platformio/packages/framework-mbed/drivers",
                 "C:/Users/David/.platformio/packages/framework-mbed/drivers/internal",
                 "C:/Users/David/.platformio/packages/framework-mbed/events",
@@ -57,11 +57,11 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/David/Videos/GitLab/APSons/lib/function-to-piecewise/include",
-                    "C:/Users/David/Videos/GitLab/APSons/lib/function-to-piecewise/src",
+                    "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/include",
+                    "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/src",
                     "C:/Users/David/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M",
                     "C:/Users/David/.platformio/packages/framework-mbed",
-                    "C:/Users/David/Videos/GitLab/APSons/lib/function-to-piecewise/.pio/build/nucleo_l432kc",
+                    "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/.pio/build/nucleo_l432kc",
                     "C:/Users/David/.platformio/packages/framework-mbed/drivers",
                     "C:/Users/David/.platformio/packages/framework-mbed/drivers/internal",
                     "C:/Users/David/.platformio/packages/framework-mbed/events",
@@ -107,7 +107,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=40304",
+                "PLATFORMIO=50000",
                 "STM32L432xx",
                 "ARM_MATH_CM4",
                 "COMPONENT_NSPE=1",
@@ -172,6 +172,10 @@
             ],
             "intelliSenseMode": "clang-x64",
             "cppStandard": "c++14",
+            "forcedInclude": [
+                "C:/Users/David/Videos/GitLab/David_Antaki_GitLab/David_Antaki_Open_Source/functiontopiecewise/.pio/build/nucleo_l432kc/mbed_config.h",
+                ""
+            ],
             "compilerPath": "C:/Users/David/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
             "compilerArgs": [
                 "-mcpu=cortex-m4",
